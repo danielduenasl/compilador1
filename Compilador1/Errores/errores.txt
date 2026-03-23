@@ -1,0 +1,3 @@
+ERR001|Cadena vacia
+ERR002|Cadena invalida
+ERR003|Token no reconocido

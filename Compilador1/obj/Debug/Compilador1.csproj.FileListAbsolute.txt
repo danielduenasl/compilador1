@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Compilador1.exe.config
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Compilador1.exe
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Compilador1.pdb
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.Form1.resources
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.exe
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.pdb
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Config\delimitadores.txt
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Config\operadores.txt
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Config\reservadas.txt
+C:\Users\Daniel\source\repos\Compilador1\bin\Debug\Errores\errores.txt
+C:\Users\Daniel\source\repos\Compilador1\obj\Debug\Compilador1.exe.config
